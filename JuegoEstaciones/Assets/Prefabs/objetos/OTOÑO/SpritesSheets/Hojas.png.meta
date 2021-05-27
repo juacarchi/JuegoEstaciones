@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 932be74b43718954f9a30a085c60dfae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1767265700428005390
+    second: Hojas_0
+  - first:
+      213: -5355056086355199492
+    second: Hojas_1
+  - first:
+      213: 652520488073890726
+    second: Hojas_2
+  - first:
+      213: -7336415923463736809
+    second: Hojas_3
+  - first:
+      213: -8005122408234826524
+    second: Hojas_5
+  - first:
+      213: -4768298174630104655
+    second: Hojas_6
+  - first:
+      213: 2238736948693701021
+    second: Hojas_7
+  - first:
+      213: 4063470132038360398
+    second: Hojas_8
+  - first:
+      213: -5713972712405418538
+    second: Hojas_9
+  - first:
+      213: 7656085161310954087
+    second: Hojas_10
+  - first:
+      213: -8135486360757641003
+    second: Hojas_11
+  - first:
+      213: 6670611431309023478
+    second: Hojas_12
+  - first:
+      213: -3134650814264789384
+    second: Hojas_13
+  - first:
+      213: 7531276234625914879
+    second: Hojas_14
+  - first:
+      213: 1946771594189933729
+    second: Hojas_15
+  - first:
+      213: -7942369688781579849
+    second: Hojas_16
+  - first:
+      213: 7480612327376655953
+    second: Hojas_17
+  - first:
+      213: -6730241882798028868
+    second: Hojas_18
+  - first:
+      213: -2146669589735218827
+    second: Hojas_19
+  - first:
+      213: -5889718947662028518
+    second: Hojas_20
+  - first:
+      213: -3999333835465931990
+    second: Hojas_21
+  - first:
+      213: 749859794290923913
+    second: Hojas_22
+  - first:
+      213: -3783496710288752016
+    second: Hojas_23
+  - first:
+      213: 6754841727416066519
+    second: Hojas_24
+  - first:
+      213: -8577227815035804326
+    second: Hojas_25
+  - first:
+      213: 7678241548428521483
+    second: Hojas_27
+  - first:
+      213: -6796578616584875538
+    second: Hojas_28
+  - first:
+      213: -1638098301319549997
+    second: Hojas_29
+  - first:
+      213: -7017935205819293872
+    second: Hojas_30
+  - first:
+      213: 407447833511899008
+    second: Hojas_32
+  - first:
+      213: 3960162816878298348
+    second: Hojas_33
+  - first:
+      213: -8694914023854960817
+    second: Hojas_35
+  - first:
+      213: 4692868102138610694
+    second: Hojas_36
+  - first:
+      213: -8544490387103163377
+    second: Hojas_37
+  - first:
+      213: 104938688111332548
+    second: Hojas_38
+  - first:
+      213: 247390943525501145
+    second: Hojas_39
+  - first:
+      213: 2170830452247516630
+    second: Hojas_40
+  - first:
+      213: 2152290135359074245
+    second: Hojas_41
+  - first:
+      213: -6575209196383101796
+    second: Hojas_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hojas_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 896
+        width: 120
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004eb98ac6968810800000000000000
+      internalID: 1767265700428005390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 851
+        width: 123
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9318c9cd40fa5b0800000000000000
+      internalID: -5355056086355199492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 866
+        width: 124
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab0f4c3de73e0900800000000000000
+      internalID: 652520488073890726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 877
+        width: 134
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712bc6d6690df2a90800000000000000
+      internalID: -7336415923463736809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 904
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4c4a9259718e090800000000000000
+      internalID: -8005122408234826524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_6
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 845
+        width: 103
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1770ed21a93ddb0800000000000000
+      internalID: -4768298174630104655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_7
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 845
+        width: 120
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d911e6cb467911f10800000000000000
+      internalID: 2238736948693701021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_8
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 865
+        width: 97
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d5e8f4e88546830800000000000000
+      internalID: 4063470132038360398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_9
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 900
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddbccc8714e3b0b0800000000000000
+      internalID: -5713972712405418538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 645
+        width: 67
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762241af3e0ef3a60800000000000000
+      internalID: 7656085161310954087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 643
+        width: 162
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d061003242f81f80800000000000000
+      internalID: -8135486360757641003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 700
+        width: 165
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f895dd11c5c29c50800000000000000
+      internalID: 6670611431309023478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 642
+        width: 188
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876bbd841bb7f74d0800000000000000
+      internalID: -3134650814264789384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_14
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 646
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7183e35d7748860800000000000000
+      internalID: 7531276234625914879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_15
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 646
+        width: 174
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac03825372540b10800000000000000
+      internalID: 1946771594189933729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_16
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 685
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9185939d807c190800000000000000
+      internalID: -7942369688781579849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_17
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 727
+        width: 125
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15691bb174970d760800000000000000
+      internalID: 7480612327376655953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 361
+        width: 68
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70e5b7aa06992a0800000000000000
+      internalID: -6730241882798028868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 534
+        width: 100
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e2b5b16f7532e0800000000000000
+      internalID: -2146669589735218827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 544
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11a7b972d3834ea0800000000000000
+      internalID: -5889718947662028518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_21
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 489
+        width: 161
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a234ad6e0138f78c0800000000000000
+      internalID: -3999333835465931990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_22
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 408
+        width: 228
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989de0e8289086a00800000000000000
+      internalID: 749859794290923913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_23
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 544
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072416ea9c15e7bc0800000000000000
+      internalID: -3783496710288752016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_24
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 494
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1ee9c23c40ebd50800000000000000
+      internalID: 6754841727416066519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_25
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 545
+        width: 102
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55e03f0fb097f880800000000000000
+      internalID: -8577227815035804326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 291
+        width: 91
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b003ab9d1089e8a60800000000000000
+      internalID: 7678241548428521483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 291
+        width: 105
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1517e02c3bda1a0800000000000000
+      internalID: -6796578616584875538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 263
+        width: 152
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db6da2264e4449e0800000000000000
+      internalID: -1638098301319549997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_30
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 251
+        width: 77
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fde68ec194b9e90800000000000000
+      internalID: -7017935205819293872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_32
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 288
+        width: 111
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08faaf455ab87a500800000000000000
+      internalID: 407447833511899008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_33
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 125
+        width: 114
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4cdb0a91355f630800000000000000
+      internalID: 3960162816878298348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_35
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 263
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f009f43c5755780800000000000000
+      internalID: -8694914023854960817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_36
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 229
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604cbbdccaa602140800000000000000
+      internalID: 4692868102138610694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 127
+        width: 200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cd9f9734fdb6980800000000000000
+      internalID: -8544490387103163377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_38
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 68
+        width: 97
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc421c4e21d47100800000000000000
+      internalID: 104938688111332548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 27
+        width: 186
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d87c7d90c8ee6300800000000000000
+      internalID: 247390943525501145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_40
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 68
+        width: 106
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d550d57bc6502e10800000000000000
+      internalID: 2170830452247516630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_41
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 62
+        width: 154
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa7ab89787edd10800000000000000
+      internalID: 2152290135359074245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hojas_42
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 27
+        width: 143
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c14b5a21a20c4a0800000000000000
+      internalID: -6575209196383101796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 516230e1b8464e2498788e7e98f6ed6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

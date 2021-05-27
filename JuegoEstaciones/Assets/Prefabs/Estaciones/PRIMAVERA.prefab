@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5731412739165170514
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6033959791442325821}
+  - component: {fileID: 1905530875329882651}
+  - component: {fileID: 65369959564006808}
+  - component: {fileID: 6259831767100147809}
+  m_Layer: 5
+  m_Name: PRIMAVERA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6033959791442325821
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5731412739165170514}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.25, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 191}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &1905530875329882651
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5731412739165170514}
+  m_CullTransparentMesh: 0
+--- !u!114 &65369959564006808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5731412739165170514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 1e8f3f2bf8fc6ab4a9ad7f67dc556442, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 86
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: PRIMAVERA
+--- !u!114 &6259831767100147809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5731412739165170514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec4e8457a08abda4c851a4776692eb76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameEstacion: PRIMAVERA
+  correctsObjects:
+  - {fileID: 414906039267928897, guid: e305ea12f1fd8c342a40799119b24a0f, type: 3}
+  - {fileID: 1065131584417594699, guid: b202e11475a4d8442a7478fcecb7cc69, type: 3}
+  - {fileID: 8847403377111928388, guid: c8a079d03153830418d17efbc7e1c10f, type: 3}
+  - {fileID: 6276045542599784018, guid: 5f7ab85a68b1b1145b62d29efb78cc4c, type: 3}
+  - {fileID: 833366865578078677, guid: 45aeb333189b81f46a3376aa60e988c8, type: 3}
+  incorrectObjects:
+  - {fileID: 7499339782086644243, guid: 22c4964069d8bbb498c5d81fc06213c6, type: 3}
+  - {fileID: 4590303220382432386, guid: b9eee019848f58f4dba9e7c45690cdc2, type: 3}
+  - {fileID: 810269256172320630, guid: ac5431ba680db4947b1a2e79b3d3a44a, type: 3}
+  - {fileID: 7738019351032606691, guid: 1044014a8dac93e4582c769b3e4b6ba7, type: 3}
+  - {fileID: 4514944272824064987, guid: 42dfc62897e714f4d9fe3d27f19be4cd, type: 3}
+  - {fileID: 6400424340397196129, guid: 6c5e94557f1b0a5429f57817dd80d585, type: 3}
+  - {fileID: 2959339368549500087, guid: f7b3eebe138dd3e4d9fe11a0562128b0, type: 3}
+  - {fileID: 7809832813350365727, guid: 751fa827e7808d34a956913b07ce9448, type: 3}
+  - {fileID: 596566250182963401, guid: 53ec68fc619993d4582e7999ea3536f3, type: 3}
+  - {fileID: 1617814928620500051, guid: 8874710ded75bf8478eb6f83f7dab67d, type: 3}
+  - {fileID: 248660855517132700, guid: 844d4f4ccfeb4bc4ea467d94ea1884f7, type: 3}
+  - {fileID: 6831033668997743322, guid: e5a1248a8bcdbb54dbc9cf869f82e51b, type: 3}
+  - {fileID: 8664977691371145379, guid: 4e474d7f08e1f164e8fda1eb6bd3f3ad, type: 3}
+  - {fileID: 3105906633101918730, guid: 3907d0d262531ff4897d0015efecd35c, type: 3}
+  - {fileID: 3440869391024658202, guid: b50d4055ff8b8d542918feac1c79270d, type: 3}
+  audioEstacion: {fileID: 0}
+  textEstacion: {fileID: 65369959564006808}
+  spriteFondo: {fileID: 21300000, guid: 6ff965a4f81d13e4d9d3790a9e971035, type: 3}
