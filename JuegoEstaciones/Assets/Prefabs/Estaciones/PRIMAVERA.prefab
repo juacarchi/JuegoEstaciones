@@ -106,14 +106,6 @@ MonoBehaviour:
   - {fileID: 4514944272824064987, guid: 42dfc62897e714f4d9fe3d27f19be4cd, type: 3}
   - {fileID: 6400424340397196129, guid: 6c5e94557f1b0a5429f57817dd80d585, type: 3}
   - {fileID: 2959339368549500087, guid: f7b3eebe138dd3e4d9fe11a0562128b0, type: 3}
-  - {fileID: 7809832813350365727, guid: 751fa827e7808d34a956913b07ce9448, type: 3}
-  - {fileID: 596566250182963401, guid: 53ec68fc619993d4582e7999ea3536f3, type: 3}
-  - {fileID: 1617814928620500051, guid: 8874710ded75bf8478eb6f83f7dab67d, type: 3}
-  - {fileID: 248660855517132700, guid: 844d4f4ccfeb4bc4ea467d94ea1884f7, type: 3}
-  - {fileID: 6831033668997743322, guid: e5a1248a8bcdbb54dbc9cf869f82e51b, type: 3}
-  - {fileID: 8664977691371145379, guid: 4e474d7f08e1f164e8fda1eb6bd3f3ad, type: 3}
-  - {fileID: 3105906633101918730, guid: 3907d0d262531ff4897d0015efecd35c, type: 3}
-  - {fileID: 3440869391024658202, guid: b50d4055ff8b8d542918feac1c79270d, type: 3}
   audioEstacion: {fileID: 0}
   textEstacion: {fileID: 65369959564006808}
   spriteFondo: {fileID: 21300000, guid: 6ff965a4f81d13e4d9d3790a9e971035, type: 3}
