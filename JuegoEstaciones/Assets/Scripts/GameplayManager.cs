@@ -4,6 +4,7 @@ using UnityEngine.UI;
 
 public class GameplayManager : MonoBehaviour
 {
+    public static GameplayManager instance;
     //public GameObject[] prefabInstanciado;
     public GameObject canvasPadre;
     public List<RectTransform> posObjectsInPanel;
@@ -19,16 +20,26 @@ public class GameplayManager : MonoBehaviour
 
     public int n_aciertos;
     public Image BG;
-    
+
     public GameObject panelReiniciar;
     GameManager nivelCompletado;
 
     List<GameObject> estacionesList;
-
+    private void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+        }
+        else
+        {
+            Destroy(this.gameObject);
+        }
+    }
     // Start is called before the first frame update
     void Start()
     {
-        
+
         nivelCompletado = GameObject.Find("GameManager").GetComponent<GameManager>();
         n_aciertos = 0;
         panelVictory.SetActive(false);
@@ -54,6 +65,7 @@ public class GameplayManager : MonoBehaviour
             instanciarCorrecto.transform.SetParent(posObjectsInPanel[aleatorio]);
             RectTransform rect = instanciarCorrecto.GetComponent<RectTransform>();
             rect.anchoredPosition = Vector3.zero;
+            rect.localPosition = new Vector3(rect.anchoredPosition.x, rect.anchoredPosition.y, 0);
             rect.localScale = new Vector2(1, 1);
             posObjectsInPanel.RemoveAt(aleatorio);
             Button botonProv = instanciarCorrecto.gameObject.GetComponent<Button>();
@@ -66,6 +78,7 @@ public class GameplayManager : MonoBehaviour
             instanciarIncorrecto.transform.SetParent(posObjectsInPanel[aleatorio]);
             RectTransform rect = instanciarIncorrecto.GetComponent<RectTransform>();
             rect.anchoredPosition = Vector3.zero;
+            rect.localPosition = new Vector3(rect.anchoredPosition.x, rect.anchoredPosition.y, 0);
             rect.localScale = new Vector2(1, 1);
             posObjectsInPanel.RemoveAt(aleatorio);
             Button botonProv2 = instanciarIncorrecto.gameObject.GetComponent<Button>();
@@ -96,5 +109,10 @@ public class GameplayManager : MonoBehaviour
                 }
             }
         }
+    }
+    public void SumaAcierto()
+    {
+        n_aciertos++;
+        Debug.Log(n_aciertos);
     }
 }

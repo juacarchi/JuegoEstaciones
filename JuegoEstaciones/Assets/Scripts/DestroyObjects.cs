@@ -6,15 +6,13 @@ using UnityEngine.UI;
 
 public class DestroyObjects : MonoBehaviour
 {
-    GameplayManager aciertos;
-    SFXManager2 sonidoAcierto;
-    GameManager fxAcierto;
+   
+    
+    GameObject fxAcierto;
     // Start is called before the first frame update
     void Start()
     {
-        aciertos = GameObject.Find("GameplayManager").GetComponent<GameplayManager>();
-        sonidoAcierto = GameObject.Find("SFXManager2").GetComponent<SFXManager2>();
-        fxAcierto = GameObject.Find("GameManager").GetComponent<GameManager>();
+        fxAcierto = GameManager.instance.fx_Stars;
     }
 
     // Update is called once per frame
@@ -24,9 +22,9 @@ public class DestroyObjects : MonoBehaviour
     }
     public void DestroyObject()
     {
-        SFXManager2.instance.PlaySFX(sonidoAcierto.succes);
-        aciertos.n_aciertos += 1;
-        Instantiate(fxAcierto.fx_Stars, this.transform.position, Quaternion.identity);
+        SFXManager2.instance.PlaySFX(SFXManager2.instance.succes);
+        GameplayManager.instance.SumaAcierto();
+        Instantiate(fxAcierto, this.transform.position, Quaternion.identity);
         
         Destroy(this.gameObject);
     }

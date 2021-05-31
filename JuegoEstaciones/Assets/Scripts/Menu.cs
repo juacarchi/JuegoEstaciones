@@ -13,10 +13,13 @@ public class Menu : MonoBehaviour
     }
     public void PlayGame()
     {
-        UITransition.instance.StartLeftAnimation();
+        TransitionManager.instance.AnimateTransition();
         buttonStart.interactable = false;
 
-        //SceneManager.LoadScene(1); //CUANDO HAYA MÁS ANIMALES CAMBIAR POR RANDOMRANGE
+    }
+    public void ReturnMenu()
+    {
+
     }
     public void RightAnimation()
     {

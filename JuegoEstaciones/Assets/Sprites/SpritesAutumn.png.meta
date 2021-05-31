@@ -1,64 +1,64 @@
 fileFormatVersion: 2
-guid: 0087b1b4cdade534ca8666e40d54a80b
+guid: 86b63892ec746814f8131dd7363f2527
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -934412089957771709
-    second: vernao_0
+      213: -4102324228918566385
+    second: SpritesAutumn_0
   - first:
-      213: 1202927099136120834
-    second: vernao_1
+      213: 7391590069635583939
+    second: SpritesAutumn_1
   - first:
-      213: -7079484851086464239
-    second: vernao_2
+      213: -8819863419136054722
+    second: SpritesAutumn_2
   - first:
-      213: -6902793562386865005
-    second: vernao_3
+      213: -5256729227455744729
+    second: SpritesAutumn_3
   - first:
-      213: 1269574711702917844
-    second: vernao_4
+      213: -1590673946290738211
+    second: SpritesAutumn_6
   - first:
-      213: 108940741167887233
-    second: vernao_5
+      213: -7162863801758256920
+    second: SpritesAutumn_7
   - first:
-      213: 6858138448790552789
-    second: vernao_6
+      213: 8304897482213039800
+    second: SpritesAutumn_8
   - first:
-      213: -7723998599023043250
-    second: vernao_7
+      213: -4374262512960739171
+    second: SpritesAutumn_9
   - first:
-      213: 6074092141695123598
-    second: vernao_8
+      213: 6077207744029043642
+    second: SpritesAutumn_10
   - first:
-      213: -1748938987502519987
-    second: vernao_9
+      213: -9196376075530226486
+    second: SpritesAutumn_11
   - first:
-      213: 8507517994401771706
-    second: vernao_10
+      213: -3599419708982817393
+    second: SpritesAutumn_12
   - first:
-      213: -3104815305272556560
-    second: vernao_11
+      213: 506859729207270361
+    second: SpritesAutumn_13
   - first:
-      213: -1374676446152760441
-    second: vernao_12
+      213: 6282546738676321758
+    second: SpritesAutumn_14
   - first:
-      213: 8703752944756684172
-    second: vernao_13
+      213: 6262797058825235196
+    second: SpritesAutumn_15
   - first:
-      213: -5751902620742658600
-    second: vernao_14
+      213: 5301031824024799353
+    second: SpritesAutumn_16
   - first:
-      213: -5487544471741629965
-    second: vernao_15
+      213: 4629319833940811610
+    second: SpritesAutumn_17
   - first:
-      213: -1089640784585716963
-    second: vernao_16
+      213: 5385588601959442753
+    second: SpritesAutumn_18
   - first:
-      213: 1198150733441221305
-    second: vernao_17
+      213: 4228937858186203553
+    second: SpritesAutumn_19
   - first:
-      213: 4094281538697031567
-    second: vernao_18
+      213: -537453964228712059
+    second: SpritesAutumn_20
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -141,18 +141,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -192,13 +180,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vernao_0
+      name: SpritesAutumn_0
       rect:
         serializedVersion: 2
-        x: 98
-        y: 311
-        width: 60
-        height: 66
+        x: 20
+        y: 609
+        width: 270
+        height: 218
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3469c38a72d4803f0800000000000000
-      internalID: -934412089957771709
+      spriteID: f02a4dd49dd9117c0800000000000000
+      internalID: -4102324228918566385
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_1
+      name: SpritesAutumn_1
       rect:
         serializedVersion: 2
-        x: 158
-        y: 253
-        width: 54
-        height: 94
+        x: 336
+        y: 625
+        width: 153
+        height: 189
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20813b2c2d7a1b010800000000000000
-      internalID: 1202927099136120834
+      spriteID: 3cf0fe98104349660800000000000000
+      internalID: 7391590069635583939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_2
+      name: SpritesAutumn_2
       rect:
         serializedVersion: 2
-        x: 202
-        y: 269
-        width: 54
-        height: 92
+        x: 528
+        y: 658
+        width: 134
+        height: 157
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,61 +236,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11b6b32690e90cd90800000000000000
-      internalID: -7079484851086464239
+      spriteID: e3aeeee23fc899580800000000000000
+      internalID: -8819863419136054722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_3
+      name: SpritesAutumn_3
       rect:
         serializedVersion: 2
-        x: 268
-        y: 313
-        width: 82
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 394e31cd3d95430a0800000000000000
-      internalID: -6902793562386865005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vernao_4
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 177
-        width: 131
-        height: 228
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d21fda497f6e9110800000000000000
-      internalID: 1269574711702917844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vernao_5
-      rect:
-        serializedVersion: 2
-        x: 417
-        y: 217
-        width: 107
+        x: 757
+        y: 608
+        width: 168
         height: 170
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -311,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18331e2e609038100800000000000000
-      internalID: 108940741167887233
+      spriteID: 72536157e985c07b0800000000000000
+      internalID: -5256729227455744729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_6
+      name: SpritesAutumn_6
       rect:
         serializedVersion: 2
-        x: 463
-        y: 288
-        width: 74
-        height: 75
+        x: 1020
+        y: 647
+        width: 149
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d00c9c45900d2f50800000000000000
-      internalID: 6858138448790552789
+      spriteID: ddb2fdd397acce9e0800000000000000
+      internalID: -1590673946290738211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_7
+      name: SpritesAutumn_7
       rect:
         serializedVersion: 2
-        x: 54
-        y: 243
-        width: 92
-        height: 54
+        x: 1246
+        y: 577
+        width: 150
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4ddd9b9238dec490800000000000000
-      internalID: -7723998599023043250
+      spriteID: 8e0f1b1a255689c90800000000000000
+      internalID: -7162863801758256920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_8
+      name: SpritesAutumn_8
       rect:
         serializedVersion: 2
-        x: 101
-        y: 169
-        width: 70
-        height: 84
+        x: 25
+        y: 333
+        width: 239
+        height: 245
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,20 +320,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e80cab6fe928b4450800000000000000
-      internalID: 6074092141695123598
+      spriteID: 8be1853424ce04370800000000000000
+      internalID: 8304897482213039800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_9
+      name: SpritesAutumn_9
       rect:
         serializedVersion: 2
-        x: 286
-        y: 176
-        width: 60
-        height: 102
+        x: 357
+        y: 280
+        width: 117
+        height: 319
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,20 +341,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d49b414d1458ab7e0800000000000000
-      internalID: -1748938987502519987
+      spriteID: d98eaa89b6f7b43c0800000000000000
+      internalID: -4374262512960739171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_10
+      name: SpritesAutumn_10
       rect:
         serializedVersion: 2
-        x: 322
-        y: 193
-        width: 63
-        height: 101
+        x: 558
+        y: 347
+        width: 168
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,20 +362,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab0bf888a86c01670800000000000000
-      internalID: 8507517994401771706
+      spriteID: abbaa19ae34965450800000000000000
+      internalID: 6077207744029043642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_11
+      name: SpritesAutumn_11
       rect:
         serializedVersion: 2
-        x: 104
-        y: 58
-        width: 79
-        height: 79
+        x: 801
+        y: 326
+        width: 255
+        height: 214
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,20 +383,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f3880c0eea79e4d0800000000000000
-      internalID: -3104815305272556560
+      spriteID: ac4be1d0fa8ef5080800000000000000
+      internalID: -9196376075530226486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_12
+      name: SpritesAutumn_12
       rect:
         serializedVersion: 2
-        x: 151
-        y: 111
-        width: 124
-        height: 124
+        x: 1107
+        y: 323
+        width: 129
+        height: 189
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,20 +404,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 783e7f93e0b2cece0800000000000000
-      internalID: -1374676446152760441
+      spriteID: f8d0a8068da4c0ec0800000000000000
+      internalID: -3599419708982817393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_13
+      name: SpritesAutumn_13
       rect:
         serializedVersion: 2
-        x: 206
-        y: 84
-        width: 98
-        height: 79
+        x: 1248
+        y: 324
+        width: 256
+        height: 193
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,20 +425,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c857bf45031f9c870800000000000000
-      internalID: 8703752944756684172
+      spriteID: 9db995efc3ab80700800000000000000
+      internalID: 506859729207270361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_14
+      name: SpritesAutumn_14
       rect:
         serializedVersion: 2
-        x: 342
-        y: 87
-        width: 56
-        height: 56
+        x: 50
+        y: 42
+        width: 208
+        height: 238
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,20 +446,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d5def39a032d20b0800000000000000
-      internalID: -5751902620742658600
+      spriteID: edd4793f8f6103750800000000000000
+      internalID: 6282546738676321758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_15
+      name: SpritesAutumn_15
       rect:
         serializedVersion: 2
-        x: 364
-        y: 102
-        width: 139
-        height: 81
+        x: 302
+        y: 25
+        width: 228
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,20 +467,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f97ea0906358d3b0800000000000000
-      internalID: -5487544471741629965
+      spriteID: cfaa3a74ebce9e650800000000000000
+      internalID: 6262797058825235196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_16
+      name: SpritesAutumn_16
       rect:
         serializedVersion: 2
-        x: 481
-        y: 109
-        width: 95
-        height: 97
+        x: 592
+        y: 0
+        width: 212
+        height: 276
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,20 +488,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1b8df5ca71d0e0f0800000000000000
-      internalID: -1089640784585716963
+      spriteID: 9780a0e9b5c019940800000000000000
+      internalID: 5301031824024799353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_17
+      name: SpritesAutumn_17
       rect:
         serializedVersion: 2
-        x: 275
-        y: 61
-        width: 65
-        height: 50
+        x: 865
+        y: 50
+        width: 138
+        height: 185
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,20 +509,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b243267ebfa0a010800000000000000
-      internalID: 1198150733441221305
+      spriteID: a5f56bd9cd5ae3040800000000000000
+      internalID: 4629319833940811610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vernao_18
+      name: SpritesAutumn_18
       rect:
         serializedVersion: 2
-        x: 418
-        y: 66
-        width: 66
-        height: 43
+        x: 1023
+        y: 51
+        width: 101
+        height: 155
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -584,8 +530,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8fe974fd5fc1d830800000000000000
-      internalID: 4094281538697031567
+      spriteID: 1496f26ac447dba40800000000000000
+      internalID: 5385588601959442753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesAutumn_19
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 79
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d36e739430ba30800000000000000
+      internalID: 4228937858186203553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpritesAutumn_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 72
+        width: 154
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a50397749a88f0800000000000000
+      internalID: -537453964228712059
       vertices: []
       indices: 
       edges: []
@@ -593,7 +581,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 576ec7349774ded4083ed4eb2b2d28c5
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
