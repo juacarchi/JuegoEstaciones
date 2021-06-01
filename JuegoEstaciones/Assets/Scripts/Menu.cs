@@ -7,6 +7,8 @@ using UnityEngine.UI;
 public class Menu : MonoBehaviour
 {
     public Button buttonStart;
+    public Button buttonMenu;
+    string url = "https://iquick.es";
     private void Start()
     {
         buttonStart.interactable = true;
@@ -19,10 +21,18 @@ public class Menu : MonoBehaviour
     }
     public void ReturnMenu()
     {
-
+        TransitionManager.instance.AnimateTransition();
+        buttonMenu.interactable = false;
     }
-    public void RightAnimation()
+    public void SetNumber(int numberToScene)
     {
-        UITransition.instance.StartLeftAnimation();
+        ManagerScene.instance.SetNumberSceneToChange(numberToScene);
+    }
+    public void QuitGame()
+    {
+        //WEB GL
+        Application.OpenURL(url);
+
+
     }
 }

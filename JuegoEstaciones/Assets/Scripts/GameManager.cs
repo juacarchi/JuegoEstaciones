@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     float timer = 1.5f;
     bool TimeToEnd;
     bool allLevelsCompleted;
+    int lastSeason;
     // Start is called before the first frame update
     private void Awake()
     {
@@ -28,6 +29,7 @@ public class GameManager : MonoBehaviour
         {
             Destroy(this.gameObject);
         }
+        lastSeason = 10;
     }
 
     // Update is called once per frame
@@ -80,5 +82,12 @@ public class GameManager : MonoBehaviour
     {
         this.allLevelsCompleted = allLevelsCompleted;
     }
-
+    public void SetLastSeason(int lastSeason)
+    {
+        this.lastSeason = lastSeason;
+    }
+    public int GetLastSeason()
+    {
+        return this.lastSeason;
+    }
 }

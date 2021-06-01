@@ -50,7 +50,12 @@ public class GameplayManager : MonoBehaviour
     }
     public void RandomEstacion()
     {
-        n_estacion = Random.Range(0, estacionesList.Count);
+        do
+        {
+            n_estacion = Random.Range(0, estacionesList.Count);
+        } while (n_estacion == GameManager.instance.GetLastSeason());
+
+        GameManager.instance.SetLastSeason(n_estacion);
         newEstacion = estacionesList[n_estacion].GetComponent<Estacion>();
         correctObjects = newEstacion.GetCorrectsObjects();
         incorrectObjects = newEstacion.GetIncorrectObjects();
@@ -84,8 +89,6 @@ public class GameplayManager : MonoBehaviour
             Button botonProv2 = instanciarIncorrecto.gameObject.GetComponent<Button>();
             botonProv2.interactable = false;
         }
-        estacionesList.RemoveAt(n_estacion);
-
     }
 
 
@@ -98,16 +101,16 @@ public class GameplayManager : MonoBehaviour
             SFXManager2.instance.PlaySFX(SFXManager2.instance.victory);
             //SFXManager2.instance.PlaySFX(sonidoVictoria.victory);
             n_aciertos = 0;
-            if (nivelCompletado.levelsCompleted == 4)
-            {
-                SFXManager2.instance.PlaySFX(SFXManager2.instance.victory);
-                panelVictory.SetActive(false);
-                panelReiniciar.SetActive(true);
-                for (int i = 0; i < GameManager.instance.principalEstacionList.Count; i++)
-                {
-                    estacionesList.Add(GameManager.instance.principalEstacionList[i]);
-                }
-            }
+            //if (nivelCompletado.levelsCompleted == 4)
+            //{
+            //    SFXManager2.instance.PlaySFX(SFXManager2.instance.victory);
+            //    panelVictory.SetActive(false);
+            //    panelReiniciar.SetActive(true);
+            //    for (int i = 0; i < GameManager.instance.principalEstacionList.Count; i++)
+            //    {
+            //        estacionesList.Add(GameManager.instance.principalEstacionList[i]);
+            //    }
+            //}
         }
     }
     public void SumaAcierto()
