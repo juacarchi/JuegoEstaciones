@@ -242,14 +242,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1243884229809173959, guid: d1f575014fa259a41b8a26c570b228d1,
         type: 3}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1243884229809173959, guid: d1f575014fa259a41b8a26c570b228d1,
+        type: 3}
       propertyPath: m_Volume
-      value: 0.196
+      value: 0.14
       objectReference: {fileID: 0}
     - target: {fileID: 1243884229809173959, guid: d1f575014fa259a41b8a26c570b228d1,
         type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: a8016816644a8bf45a702e2d2d66186e, type: 3}
+      objectReference: {fileID: 8300000, guid: a3a3c921f927c02419c530a8fcfe1075, type: 3}
     - target: {fileID: 2325063853051181146, guid: d1f575014fa259a41b8a26c570b228d1,
         type: 3}
       propertyPath: m_Name
@@ -319,6 +324,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2584328942135095235, guid: 894ca63ab61b65247b8bb2851725a467,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 24.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584328942217126831, guid: 894ca63ab61b65247b8bb2851725a467,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 24.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584328942974718987, guid: 894ca63ab61b65247b8bb2851725a467,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -27.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584328943317792288, guid: 894ca63ab61b65247b8bb2851725a467,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -27.3
+      objectReference: {fileID: 0}
     - target: {fileID: 2584328943824629328, guid: 894ca63ab61b65247b8bb2851725a467,
         type: 3}
       propertyPath: m_RootOrder
@@ -347,7 +372,7 @@ PrefabInstance:
     - target: {fileID: 2584328943824629328, guid: 894ca63ab61b65247b8bb2851725a467,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2584328943824629328, guid: 894ca63ab61b65247b8bb2851725a467,
         type: 3}
@@ -388,6 +413,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TransitionAnimation
+      objectReference: {fileID: 0}
+    - target: {fileID: 2584328943985844249, guid: 894ca63ab61b65247b8bb2851725a467,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 24.72
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2584328943824629329, guid: 894ca63ab61b65247b8bb2851725a467, type: 3}
@@ -641,7 +671,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8b4e3bdea5566494896d9523516c9eae, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0eb17406361c6fd4db31ee1fba7f8d10, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

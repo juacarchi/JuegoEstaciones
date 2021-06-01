@@ -142,3 +142,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0aacdaab386dad47b1c6659e8d2db9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nameText: "MU\xD1ECO DE NIEVE"
+  textWord: {fileID: 6673215587532383338, guid: 63b5aa99b70d55a48a4b91c5b6c7b284,
+    type: 3}

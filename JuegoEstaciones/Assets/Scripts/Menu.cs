@@ -31,7 +31,9 @@ public class Menu : MonoBehaviour
     public void QuitGame()
     {
         //WEB GL
-        Application.OpenURL(url);
+        //Application.OpenURL(url);
+        //ANDROID
+        Application.Quit();
 
 
     }
